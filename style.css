@@ -98,6 +98,13 @@ body * {
   outline: 8px solid var(--highlight-color)
 }
 
+.titulo {
+  margin-top: 40px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 600;
+}
+
 #switch span {
   display: block;
   width: 64px;
